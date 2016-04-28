@@ -1,8 +1,11 @@
-# Watson Speech to tex Telegram Chatbot
+# Watson Powered Speech-to-Text Telegram Chatbot
 By Joe Carlson 2016
 
 ## Setting up Watson
-Watson has an API. I signed up for 30 days trial. The hardest part was actually getting the account working. A rule of thumb is that if you haven’t seen a feature in the Web interface yet, it will not work in the cl tools. So first setup your company and region to avoid errors and click a little bit in the Web UI. Then follow this guide:
+Watson has an API. I signed up for 30 days trial. The hardest part was actually getting the account working. A rule of thumb is that if you haven’t seen a feature in the Web interface yet, it will not work in the cl tools. So first setup your company and region to avoid errors and click a little bit in the Web UI.
+
+Then follow this guide:
+
 [Developer Cloud Documentation | Watson Developer Cloud](https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/getting_started/gs-full-nodejs.shtml)
 
 The documentation is quite easy to read and understand. At some point you create a speech-to-text service through the command line. Head back to Web interface, find the newly created service and obtain the credentials. Done.
