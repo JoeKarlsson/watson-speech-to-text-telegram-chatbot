@@ -1,5 +1,5 @@
 # Watson Powered Speech-to-Text Telegram Chatbot
-By Joe Carlson 2016
+By Joe Karlsson 2017
 
 ## Setting up Watson
 Watson has an API. I signed up for 30 days trial. The hardest part was actually getting the account working. A rule of thumb is that if you haven’t seen a feature in the Web interface yet, it will not work in the cl tools. So first setup your company and region to avoid errors and click a little bit in the Web UI.
