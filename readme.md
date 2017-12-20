@@ -1,4 +1,6 @@
 # Watson Powered Speech-to-Text Telegram Chatbot
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/JoeKarlsson/watson-speech-to-text-telegram-chatbot.svg)](https://greenkeeper.io/)
 By Joe Karlsson 2017
 
 ## Setting up Watson
