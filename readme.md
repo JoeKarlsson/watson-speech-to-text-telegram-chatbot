@@ -13,7 +13,7 @@ The documentation is quite easy to read and understand. At some point you create
 ## Setting up a Telegram bot
 Setting up a telegram bot is super easy and straight forward. First, add the BotFather to your contacts. use the /newbot command and follow through the instructions. Write down your API token. Done.
 
-##Usage
+## Usage
 1. ```npm install```
 1. Setup your Watson and Telegram API tokens (see above)
 1. ```node server.js```
