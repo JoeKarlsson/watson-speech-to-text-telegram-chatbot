@@ -5,7 +5,9 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.js",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +15,8 @@
   "dependencies": {
     "node-telegram-bot-api": "^0.21.1",
     "request": "^2.72.0",
-    "watson-developer-cloud": "^2.31.2"
-  }
+    "watson-developer-cloud": "^2.31.2",
+    "snyk": "^1.316.1"
+  },
+  "snyk": true
 }
