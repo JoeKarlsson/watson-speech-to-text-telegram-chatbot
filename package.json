@@ -13,6 +13,6 @@
   "dependencies": {
     "node-telegram-bot-api": "^0.21.1",
     "request": "^2.72.0",
-    "watson-developer-cloud": "^2.31.2"
+    "watson-developer-cloud": "^3.0.1"
   }
 }
