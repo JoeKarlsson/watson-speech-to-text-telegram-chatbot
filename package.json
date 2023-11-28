@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-telegram-bot-api": "^0.21.1",
+    "node-telegram-bot-api": "^0.64.0",
     "request": "^2.72.0",
-    "watson-developer-cloud": "^2.31.2"
+    "watson-developer-cloud": "^4.0.1"
   }
 }
